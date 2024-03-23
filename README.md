@@ -1,5 +1,4 @@
 # 2024-tp0-presentacion-CatalinaWierna
-2024-tp0-presentacion-CatalinaWierna created by GitHub Classroom
 
 Hola soy Catalina Wierna. 
 
